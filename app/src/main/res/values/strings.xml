@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">BMI</string>
+    <string name="age">Age</string>
+    <string name="hr_limits">BMI Calculator</string>
+    <string name="result_is_s_s">BMI: %1$.1f</string>
+</resources>
